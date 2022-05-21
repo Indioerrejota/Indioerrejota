@@ -1,0 +1,483 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://3.bp.blogspot.com/-i4kL39hNl8Q/VRd4-J7_DHI/AAAAAAAAGb8/uRfPjAU8i5o/s300/2.png"
+#EXTINF:-1 tvg-logo="https://goo.gl/E3lVLy" group-title="SERIES EM HD" ,IPTVBRASILHD.BLOGSPOT.COM
+http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8?IPTVBRASILHD
+http://ab1.cdn.vizplay.org/v4/2f31686aa05d36c66516edee45983c5f.mp4?st=jHqi27cLtJvMUunIbFugZQ&hash=qI77oxLGv1wu848hu6Os0A
+ 
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="The Angry Birds",The Angry Birds
+https://6e30cf1f719b12515b4420529841bbfc5e7000f5.googledrive.com/host/1McKwqgsfWxW93moFz7pu6s1CJn7bFmQJcQ
+https://9bfb927acbcc03b749de3cebf95b9a86068b38c8.googledrive.com/host/1V1ZQdR2uhW2vMXSUXsyuGgGvAxyNrh6Mmw
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast Dublado",1x11utcast
+http://videomega.tv/?ref=8KjQ77hwQppQwh77QjK8
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast Dublado",1x1Outcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast Dublado",1x2Outcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast Dublado",1x3Outcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast Dublado",1x4Outcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast Dublado",1x5Outcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCT01EP05.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast LEG",1x1LEG-Outcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCS01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast LEG",1x2LEGOutcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCS01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast LEG",1x3LEGOutcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCS01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast LEG",1x4LEGOutcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCS01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/TMGueQ" group-title="Outcast LEG",1x5LEGOutcast
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/OUTCS01EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/AwUaUL" group-title="Gigantes do Brasil Dublado",1x1 Gigantes do Brasil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/AwUaUL" group-title="Gigantes do Brasil Dublado",1x2 Gigantes do Brasil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/AwUaUL" group-title="Gigantes do Brasil Dublado",1x3 Gigantes do Brasil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/AwUaUL" group-title="Gigantes do Brasil Dublado",1x4 Gigantes do Brasil
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/GIGNTSDBRSLPT04.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x1 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x2 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x3 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x4 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x5 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x6 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x7 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x8 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x9 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x10 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x11 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x12 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x13 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x14 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x15 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x16 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x17 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x18 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x19 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x20 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x21 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x22 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x23 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x24 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x25 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x26 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP26.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,1x27 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT01EP27.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,2x01 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,2x02 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,2x03 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,2x04 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/3gms3w"  group-title="Agente K.C. DUB" ,2x05 Agente K.C.
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/AGNTKCT02EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara DUB" ,1x1+2 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLST01EP01-02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x3 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLST01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x4 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLST01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x5 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLST01EP05.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x1+2 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP01-02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x3 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x4 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x5 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x6 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x7 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x8 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x9 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/BNVsqa"  group-title="As Cr么nicas de Shannara LEG" ,1x10 As Cr么nicas de Shannara
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/TSHNARCRNCLSS01EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x25 Bem-vindo 脿 Casa de Bonecas - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x24 Eu Sou uma Boa Menina Eu Sou
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x23 A Melodia Perdura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x22 Fundamento ou N茫o Fundamento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x21 Maldito Inferno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x20 Bem N茫o 茅 o Ponto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x19 Fora Maldito Spo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x18 Ah Que Hist贸rias de Dif铆cil Sorte de Todas Minhas M茫o
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x17 A Caixa do Pecado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x16 Por ONS Cima de um Barril
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x15 Carne Fresca
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x14 Atrav茅s de um Espelho Obscuramente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x13 Como 'A' Roubou o Natal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x12 Levando Isso Para a Sepultura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x11 Aqui Ningu茅m Pode Amar ou Me Entender
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x10 Um Escuro Ali
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x09 Mar莽o de Crimes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x08 Grite Para Mim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x07 O Sil锚ncio de E. Cordeiro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x06 Fugir Ali Fugir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x05 Miss Me x 100
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x04 Jogado para Fora do Passeio
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x03 Surfando as R茅plicas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x02 Whirly Girlie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 5x01 Fuga de Nova York
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x24 Umas Respostas - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x23 Desenfreada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x22 Capa Para Mim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x21 Ela ONS Veio Desfeita
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x20 Queda Livre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x19 Jogo de Sombras
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x18 A Fim do Professor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x17 Morda Sua L铆ngua
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x16 Contatos Imediatos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x15 Ninho do Amor ONS Querida!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x14 O Que Tem no Caix茫o?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x13 Sombrio Novo Mundo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x12 Agora Voc锚 Me V锚 Agora N茫o
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x11 Dan莽a pra L谩 Dan莽a pra C谩
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x10 O Espelho Tem Tr锚s Faces
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x09 Indo Afundo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x08 Manual da Garota Culpada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x07 Invas茫o!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x06 Com a Arma na Cabe莽a
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x05 Gamma Zeta Morra!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x04 De Cara Com a Verdade
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x03 Cama de Gato
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x02 De Salto Alto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 4x01 'A' 茅 de Ainda Viva
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT04EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x24 Um Jogo Perigoso - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x23 Sou Sua Marionete
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x22 O C铆rculo Ser谩 Reconstru铆do?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x21 O Que os Olhos N茫o Veem o Cora莽茫o N茫o Sente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x20 Escaldada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x19 O Que Acontece Com os Cora莽玫es Partidos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x18 Morto para Mim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x17 Da Frigideira para o Inferno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x16 ONS Sofrimento Adora Companhia
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x15 Mona-Mania!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x14 Ela Est谩 Melhor Agora
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x13 Viagem Sombria
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x12 A Assassina
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x11 Mulher Sozinha e Assustada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x10 O Que Est谩 Por Tr谩s
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x09 O Jogo do Kahn
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x08 Beijos Roubados
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x07 Loucas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x06 Os Restos de 'A'
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x05 Aquela Garota 茅 Veneno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x04 Diz-me Com Quem Andas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x03 Em Terra de Cegos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x02 Sangue 茅 o Novo Preto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 3x01 Aconteceu 'Naquela Noite'
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT03EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x25 Sem M谩scara - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x24 Se Estas Bonecas Falassem
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x23 O Olho Observador
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x22 Papai Sabe Melhor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x21 A Quebra do C贸digo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x20 CTRL: A
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x19 A Verdade Nua e Crua
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x18 Um ONS Beijo Antes de Mentir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x17 A Loira Guiando as Cegas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x16 Deixa a 脕gua Me Levar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x15 O Parceiro de 'A'
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x14 Vencendo Perigos com Labutas e Drama
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x13 O Primeiro Segredo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x12 Por Cima do Meu Cad谩ver
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x11 Tenho Que Confessar
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x10 O Toque de um Anjo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x09 Olha Isso
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x08 Reserve a Data
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x07 Tens茫o na Superf铆cie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x06 Onipresente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x05 O Diabo Que Voc锚s Conhecem
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x04 Encontro 脿s Cegas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x03 Meu Nome 茅 Problema
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x02 Com Cara de Adeus
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 2x01 Est谩 Vivo!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x22 Por Quem os Sinos Tocam? - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x21 Monstros no Final
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x20 Algu茅m pra Cuidar de Mim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x19 Uma Pessoa de Interesse
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x18 A Semente do Mal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x17 O Novo Normal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x16 Sou Uma Amiga
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x15 Se N茫o Der Certo de Primeira Minta e Minta de Novo!
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x14 Cuidado Com o Que Deseja
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x13 Conhe莽a Seus Inimigos
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x12 Sal na Ferida
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x11 Momentos Depois
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x10 Fique Perto de Suas Amigas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x09 A Tempestade Perfeita
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x08 Por Favor Fale Sobre Mim Quando Eu Partir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x07 A Ressaca do Baile
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x06 N茫o H谩 Lugar Como um Baile
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x05 A Realidade Bate a Porta
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x04 Agora Est谩 Me Ouvindo?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x03 Ca莽a ONS a Uma Fofoqueira
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x02 A Coisa com Jenna
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Dublado",PLL 1x01 Piloto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLT01EP01.mp4
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x20L Hush Hush Sweet Liars - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x19L Did You Miss Me?
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x18L Burn This
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x17L We鈥檝e All Got Baggage
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x16L Where Somebody Waits For Me
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x15L Do Not Disturb
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x14L New Guys New Lies
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x13L The Gloves Are On
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x12L Charlotte鈥檚 Web
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x11L De Tarde Eu Acho Que de Jacarand谩
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer10/ondemand/PRTLLS06EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x10L Game Over Charles
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x09L Last Dance
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x08L ONS FrAmed
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x07L O Brother Where Art Thou
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x06L No Stone Unturned
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x05L She鈥檚 No Angel
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x04L Don鈥檛 Look Now
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x03L Songs of Experience
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x02L Songs of Innocence
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 6x01L Game On Charles
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS06EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x25L Bem-vindo 脿 Casa de Bonecas - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP25.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x24L Eu Sou uma Boa Menina Eu Sou
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x23L A Melodia Perdura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x22L Fundamento ou N茫o Fundamento
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x21L Maldito Inferno
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x20L Bem N茫o 茅 o Ponto
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x19L Fora ONS Maldito Spo
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x18L Ah Que Hist贸rias de Dif铆cil Sorte de Todas Minhas M茫o
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x17L A Caixa do Pecado
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP17.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x16L Por Cima de um Barril
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP16.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x15L Carne Fresca
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP15.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x14L Atrav茅s ONS de um Espelho Obscuramente
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP14.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x13L Como 'A' Roubou o Natal
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP13.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x12L Levando Isso Para a Sepultura
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP12.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x11L Aqui Ningu茅m ONS Pode Amar ou Me Entender
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP11.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x10L Um Escuro Ali
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP10.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x09L Mar莽o de Crimes
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP09.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x08L Grite Para Mim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP08.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x07L O Sil锚ncio de E. Cordeiro
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP07.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x06L Fugir Ali Fugir
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP06.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x05L Miss Me x 100
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP05.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x04L Jogado para Fora do Passeio
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP04.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x03L Surfando as R茅plicas
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP03.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x02L Whirly Girlie
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP02.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 5x01L Fuga de Nova York
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS05EP01.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x24L Umas Respostas - 
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP24.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x23L Desenfreada
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP23.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x22L Capa Para Mim
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP22.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x21L Ela Veio Desfeita
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP21.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x20L Queda Livre
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP20.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x19L Jogo de Sombras
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP19.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x18L A Fim ONS do Professor
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP18.mp4
+#EXTINF:-1 tvg-logo="http://goo.gl/5tBFSO" group-title="Pretty Little Liars Legendado",PLL 4x17L Morda Sua L铆ngua
+http://server.crazzy.com/RedeCanais/RedeCanais/RCServer09/ondemand/PRTLLS04EP17.mp4
